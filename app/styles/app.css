@@ -1,0 +1,17 @@
+a {
+	text-decoration: none;
+}
+
+li.li-nav{
+	text-decoration: none;
+	display: inline;
+}
+ul.nav{
+	text-align: center;
+	display: block;
+	text-decoration: none;
+}
+
+#title{
+	text-align: center;
+}
